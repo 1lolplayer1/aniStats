@@ -1,0 +1,236 @@
+[monitor]
+default_interval_secs = 20
+request_timeout_secs = 10
+history_limit = 50
+
+[[sites]]
+name = "Crunchyroll"
+url = "https://www.crunchyroll.com"
+
+[[sites]]
+name = "Zoro"
+url = "https://zoro.to"
+
+[[sites]]
+name = "Anikoto"
+url = "https://anikoto.cz"
+
+[[sites]]
+name = "Animetsu"
+url = "https://animetsu.net"
+
+[[sites]]
+name = "animepahe"
+url = "https://animepahe.com"
+
+[[sites]]
+name = "AllManga Anime"
+url = "https://allmanga.to"
+
+[[sites]]
+name = "AniZone"
+url = "https://anizone.net"
+
+[[sites]]
+name = "Kuudere"
+url = "https://kuudere.moe"
+
+[[sites]]
+name = "Animetsu"
+url = "https://animetsu.com"
+
+[[sites]]
+name = "Anikoto"
+url = "https://anikoto.com"
+
+[[sites]]
+name = "Miruro"
+url = "https://miruro.tv"
+
+[[sites]]
+name = "Anime Nexus"
+url = "https://animenexus.com"
+
+[[sites]]
+name = "AnimeStream"
+url = "https://animestream.com"
+
+[[sites]]
+name = "KickAssAnime"
+url = "https://kickassanime.ro"
+
+[[sites]]
+name = "AnimeOnsen"
+url = "https://animeonsen.xyz"
+
+[[sites]]
+name = "Anidap"
+url = "https://anidap.com"
+
+[[sites]]
+name = "Anime Realms"
+url = "https://animerealms.com"
+
+[[sites]]
+name = "Anikuro"
+url = "https://anikuro.com"
+
+[[sites]]
+name = "AniSnatch"
+url = "https://anisnatch.com"
+
+[[sites]]
+name = "AniHQ"
+url = "https://anihq.com"
+
+[[sites]]
+name = "Sudatchi"
+url = "https://sudatchi.com"
+
+[[sites]]
+name = "ANIMEGG"
+url = "https://animegg.org"
+
+[[sites]]
+name = "123anime"
+url = "https://123anime.to"
+
+[[sites]]
+name = "AnimeDao"
+url = "https://animedao.to"
+
+[[sites]]
+name = "AnimeParadise"
+url = "https://animeparadise.moe"
+
+[[sites]]
+name = "AnimeHub"
+url = "https://animehub.ac"
+
+[[sites]]
+name = "Anify"
+url = "https://anify.tv"
+
+[[sites]]
+name = "AniWorld"
+url = "https://aniworld.to"
+
+[[sites]]
+name = "FireAnime"
+url = "https://fireanime.com"
+
+[[sites]]
+name = "Anime-Loads"
+url = "https://anime-loads.org"
+
+[[sites]]
+name = "Animotvslash"
+url = "https://animotvslash.com"
+
+[[sites]]
+name = "WCO"
+url = "https://wcostream.com"
+
+[[sites]]
+name = "Kisskh"
+url = "https://kisskh.co"
+
+[[sites]]
+name = "Otaku-Streamers"
+url = "https://otaku-streamers.com"
+
+[[sites]]
+name = "AnimeNoSub"
+url = "https://animenosub.com"
+
+[[sites]]
+name = "KimoiTV"
+url = "https://kimoitv.com"
+
+[[sites]]
+name = "JustAnime"
+url = "https://justanime.com"
+
+[[sites]]
+name = "1Anime"
+url = "https://1anime.to"
+
+[[sites]]
+name = "Fanime"
+url = "https://fanime.com"
+
+[[sites]]
+name = "Animelok"
+url = "https://animelok.com"
+
+[[sites]]
+name = "Animeyubi"
+url = "https://animeyubi.com"
+
+[[sites]]
+name = "Anikage"
+url = "https://anikage.com"
+
+[[sites]]
+name = "RamenFlix"
+url = "https://ramenflix.com"
+
+[[sites]]
+name = "AniVibe"
+url = "https://anivibe.com"
+
+[[sites]]
+name = "Animegers"
+url = "https://animegers.com"
+
+[[sites]]
+name = "aniwavecomse"
+url = "https://aniwave.com.se"
+
+[[sites]]
+name = "StreamX"
+url = "https://streamx.com"
+
+[[sites]]
+name = "Anitaro"
+url = "https://anitaro.com"
+
+[[sites]]
+name = "Anistream"
+url = "https://anistream.xyz"
+
+[[sites]]
+name = "AniverseHD"
+url = "https://aniversehd.com"
+
+[[sites]]
+name = "VoxAni"
+url = "https://voxani.com"
+
+[[sites]]
+name = "9animeorglv"
+url = "https://9anime.org.lv"
+
+[[sites]]
+name = "Animovitch"
+url = "https://animovitch.com"
+
+[[sites]]
+name = "Enma"
+url = "https://enma.com"
+
+[[sites]]
+name = "Anime-Dunya"
+url = "https://anime-dunya.com"
+
+[[sites]]
+name = "AnimeEpisodeSeries"
+url = "https://animeepisodeseries.com"
+
+[[sites]]
+name = "AnimeWorld"
+url = "https://animeworld.com"
+
+[[sites]]
+name = "AnimeDekho"
+url = "https://animedekho.com"

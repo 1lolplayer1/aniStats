@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>aniStats</title>
+    <link rel="stylesheet" href="/assets/style.css" />
+</head>
+
+<body>
+
+    <div class="header">
+        <h1>aniStats // uptime monitor</h1>
+        <div class="meta">
+            last updated: <span id="last-updated">—</span> <span class="cursor">_</span>
+        </div>
+    </div>
+
+    <div class="summary">
+        <div><span>online </span><strong id="count-up" style="color:#4ade80">0</strong></div>
+        <div><span>offline </span><strong id="count-down" style="color:#f87171">0</strong></div>
+        <div><span>unknown </span><strong id="count-unknown" style="color:#444">0</strong></div>
+        <div><span>refresh </span><strong>30s</strong></div>
+    </div>
+
+    <div class="refresh-bar">
+        <div class="refresh-bar-fill" id="rfill"></div>
+    </div>
+
+    <div id="error-msg">could not reach api — retrying...</div>
+
+    <div class="table-grid">
+        <table>
+            <thead>
+                <tr>
+                    <th style="width:220px">site</th>
+                    <th style="width:90px">status</th>
+                    <th style="width:90px">latency</th>
+                    <th style="width:60px">code</th>
+                    <th style="width:130px">history</th>
+                    <th>last checked</th>
+                </tr>
+            </thead>
+            <tbody id="table-body">
+                <tr>
+                    <td colspan="6" style="color:#333;padding:2rem 12px;">loading...</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <table id="table-2">
+            <thead>
+                <tr>
+                    <th style="width:220px">site</th>
+                    <th style="width:90px">status</th>
+                    <th style="width:90px">latency</th>
+                    <th style="width:60px">code</th>
+                    <th style="width:130px">history</th>
+                    <th>last checked</th>
+                </tr>
+            </thead>
+            <tbody id="table-body-2"></tbody>
+        </table>
+    </div>
+
+    <script src="/assets/main.js"></script>
+</body>
+
+</html>
