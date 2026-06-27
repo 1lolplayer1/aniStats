@@ -8,10 +8,6 @@ name = "Crunchyroll"
 url = "https://www.crunchyroll.com"
 
 [[sites]]
-name = "Zoro"
-url = "https://zoro.to"
-
-[[sites]]
 name = "Anikoto"
 url = "https://anikoto.cz"
 
@@ -26,10 +22,6 @@ url = "https://animepahe.com"
 [[sites]]
 name = "AllManga Anime"
 url = "https://allmanga.to"
-
-[[sites]]
-name = "AniZone"
-url = "https://anizone.net"
 
 [[sites]]
 name = "Kuudere"
@@ -52,20 +44,12 @@ name = "Anime Nexus"
 url = "https://animenexus.com"
 
 [[sites]]
-name = "AnimeStream"
-url = "https://animestream.com"
-
-[[sites]]
 name = "KickAssAnime"
 url = "https://kickassanime.ro"
 
 [[sites]]
 name = "AnimeOnsen"
 url = "https://animeonsen.xyz"
-
-[[sites]]
-name = "Anidap"
-url = "https://anidap.com"
 
 [[sites]]
 name = "Anime Realms"
@@ -124,10 +108,6 @@ name = "Anime-Loads"
 url = "https://anime-loads.org"
 
 [[sites]]
-name = "Animotvslash"
-url = "https://animotvslash.com"
-
-[[sites]]
 name = "WCO"
 url = "https://wcostream.com"
 
@@ -150,10 +130,6 @@ url = "https://kimoitv.com"
 [[sites]]
 name = "JustAnime"
 url = "https://justanime.com"
-
-[[sites]]
-name = "1Anime"
-url = "https://1anime.to"
 
 [[sites]]
 name = "Fanime"
@@ -230,7 +206,3 @@ url = "https://animeepisodeseries.com"
 [[sites]]
 name = "AnimeWorld"
 url = "https://animeworld.com"
-
-[[sites]]
-name = "AnimeDekho"
-url = "https://animedekho.com"
